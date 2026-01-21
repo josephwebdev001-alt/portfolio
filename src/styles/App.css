@@ -1,0 +1,16 @@
+/* App.jsx */
+
+.App {
+  min-height: 100vh;
+  background-color: #ffffff;
+}
+
+section {
+  padding: 60px 0;
+}
+
+@media (max-width: 768px) {
+  section {
+    padding: 40px 0;
+  }
+}
